@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Darijos tinklaraštis</title>
+    <link>https://Darija2002.github.io/</link>
+    <description>Recent content on Darijos tinklaraštis</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://Darija2002.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pirmasis įrašas</title>
+      <link>https://Darija2002.github.io/posts/pirmas/</link>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://Darija2002.github.io/posts/pirmas/</guid>
+      <description>&lt;p&gt;Tai yra &lt;strong&gt;mano pirmasis Hugo puslapis&lt;/strong&gt;!&lt;/p&gt;&#xA;&lt;h3 id=&#34;kodas&#34;&gt;Kodas:&lt;/h3&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&amp;gt;Sveiki atvykę!&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
